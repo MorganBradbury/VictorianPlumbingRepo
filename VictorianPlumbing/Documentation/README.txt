@@ -1,5 +1,7 @@
 ﻿Hi Victorian Plumbing, Thank you for considering my application. 
 
+The database can be found at the root of the repo called VictorianPlumbing.bacpac to insert into Microsoft SQL Server
+
 For the API, The following JSON Object was used for my example. All requests were made with Postman as I did not configure the app to use Cors.
 
 {
